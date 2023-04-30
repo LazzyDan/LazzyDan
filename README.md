@@ -6,10 +6,8 @@
 - Разработка на PHP
 - Разработка на HTML
 - Back-end разработка
-- Anomaly Detection
-- Similarity Measure
 
-## Skills:
+## Навыки:
 
 #### Языки:
 

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Изучаю+новые+технолоджис)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Изучаю+новые+технолоджис :3)](https://git.io/typing-svg)
 
 - 👋 Привет, я Данька!
 - 👀 Мне интересна веб-разработка во всех управлениях
